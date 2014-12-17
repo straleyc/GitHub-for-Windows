@@ -13,4 +13,4 @@ Thanks.
 
 Addendum: 
 
-I will solicit the first revision:  How do I make the .txt file wrap when reading it in GitHub on the web? 
+To make the file wrap in GitHub, click on the text file name, click the pencil icon to edit; select soft wrap from the Line Wrap Mode drop down menu in the upper right corner.  If anyone knows how to make the raw file wrap, that would be nice to know.  I don't get an active "Commit changes" icon when just choosing "soft wrap".  I assume that's by design in the viewing window, but it doesn't make reading the file easy. 
