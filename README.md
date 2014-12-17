@@ -10,3 +10,7 @@ If anyone has suggestions for revisions to make these instructions clearer, by a
 I hope these will help some poor soul like me avoid some of the pain I went through trying to learn GitHub. 
 
 Thanks. 
+
+Addendum: 
+
+I will solicit the first revision:  How do I make the .txt file wrap when reading it in GitHub on the web? 
